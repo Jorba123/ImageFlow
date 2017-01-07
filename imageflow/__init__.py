@@ -25,7 +25,7 @@
   Twitter: @TheHamedMP
 """
 
-from imageflow import *
-from reader import read_and_decode
 
+from imageflow.reader import read_and_decode
+from imageflow import *
 __author__ = 'HANEL'
